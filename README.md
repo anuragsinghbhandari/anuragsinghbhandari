@@ -22,21 +22,21 @@
 ---
 
 ## <img src="https://media.giphy.com/media/jUQHpQ3UjFBfRlQekP/giphy.gif?cid=790b7611bl1ormqj7pty342g93dj15so1c3tldz3iu3p20ui&ep=v1_stickers_search&rid=giphy.gif" width=50px> GitHub Insights
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anuragsinghbhandari&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragsinghbhandari&langs_count=10&layout=compact&theme=radical&card_width=500" width="48%"/>
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuragsinghbhandari&theme=radical" width="95%"/>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=anuragsinghbhandari&color=blue&style=flat-square"/>
+  <img src="https://github-readme-stats-mauve-beta.vercel.app/api?username=anuragsinghbhandari&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"> 
+  <img src="https://github-readme-stats-mauve-beta.vercel.app/api/top-langs/?username=anuragsinghbhandari&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragsinghbhandari&theme=vue-dark&hide_border=true" alt="Current Streaks" width="48%">
 </p>
 
 ---
 
-## <img src="https://media.giphy.com/media/1qckUNdrJ0zEjYd3HP/giphy.gif?cid=790b7611dmt34728thuf99eyey5jypjdip90w5g66te6q5hi&ep=v1_stickers_search&rid=giphy.gif" width=40px> GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anuragsinghbhandari&theme=radical&no-frame=true&margin-w=15" />
-</p>
+### 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=anuragsinghbhandari&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
 
 ---
 
