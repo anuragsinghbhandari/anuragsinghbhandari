@@ -112,6 +112,30 @@
         </p>
       </td>
     </tr>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/anuragsinghbhandari/Digital-Vedic-Ayurveda">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuragsinghbhandari&repo=Digital-Vedic-Ayurveda&theme=radical" width="100%"/>
+        </a>
+        <p align="center">
+          🤖 AI-Powered Idea Discussion using Multi-LLMs  
+          <br>
+          <img src="https://img.shields.io/github/stars/anuragsinghbhandari/Digital-Vedic-Ayurveda?style=social" />
+          <img src="https://img.shields.io/github/forks/anuragsinghbhandari/Digital-Vedic-Ayurveda?style=social" />
+        </p>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/anuragsinghbhandari/Automation_email">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuragsinghbhandari&repo=Automation_email&theme=radical" width="100%"/>
+        </a>
+        <p align="center">
+          🕸️ Static Web Scraping & Automation  
+          <br>
+          <img src="https://img.shields.io/github/stars/anuragsinghbhandari/Automation_email?style=social" />
+          <img src="https://img.shields.io/github/forks/anuragsinghbhandari/Automation_email?style=social" />
+        </p>
+      </td>
+    </tr>
   </table>
 
 </div>
