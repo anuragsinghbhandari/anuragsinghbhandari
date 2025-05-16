@@ -118,7 +118,7 @@
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuragsinghbhandari&repo=Digital-Vedic-Ayurveda&theme=radical" width="100%"/>
         </a>
         <p align="center">
-          🤖 AI-Powered Idea Discussion using Multi-LLMs  
+          🤖 Vedic solution to modern problems 
           <br>
           <img src="https://img.shields.io/github/stars/anuragsinghbhandari/Digital-Vedic-Ayurveda?style=social" />
           <img src="https://img.shields.io/github/forks/anuragsinghbhandari/Digital-Vedic-Ayurveda?style=social" />
@@ -129,7 +129,7 @@
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuragsinghbhandari&repo=Automation_email&theme=radical" width="100%"/>
         </a>
         <p align="center">
-          🕸️ Static Web Scraping & Automation  
+          🕸️ Email Automation with Rag functionalities
           <br>
           <img src="https://img.shields.io/github/stars/anuragsinghbhandari/Automation_email?style=social" />
           <img src="https://img.shields.io/github/forks/anuragsinghbhandari/Automation_email?style=social" />
