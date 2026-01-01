@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I like building practical systems — from web automation to GenAI-powered apps.
+  I like building practical systems - from web automation to GenAI-powered apps.
 </p>
 
 ---
@@ -15,7 +15,7 @@
 - 🐍 Python-focused developer with a strong interest in **AI, ML, and automation**
 - 🤖 Exploring **LLMs, RAG systems, and GenAI web applications**
 - 🌐 Experience with **web scraping, APIs, and backend development**
-- 🧠 Curious by nature — I enjoy understanding *how things work under the hood*
+- 🧠 Curious by nature - I enjoy understanding *how things work under the hood*
 
 ---
 
@@ -115,5 +115,5 @@ Automated email workflows enhanced with retrieval-augmented generation
 ---
 
 🔭 Currently building **AI-powered tools** and **automation systems**  
-📚 Constantly learning — systems, ML, and software fundamentals  
+📚 Constantly learning - systems, ML, and software fundamentals  
 💬 Open to meaningful discussions and collaborations
